@@ -1,4 +1,9 @@
-# cryptowallet-api
+<div align="center">
+  <img alt="ReDoc logo" src="https://raw.githubusercontent.com/centfinance/Community/main/media-pack/logo.png" width="400px" />
+
+  ### Cent.Wallet_API - Wallet server side API
+ 
+</div>
 
 ## License
 
